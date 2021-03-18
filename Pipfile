@@ -7,6 +7,9 @@ name = "pypi"
 pandas = "*"
 jupyter = "*"
 ipykernel = "*"
+scikit-learn = "*"
+gensim = "*"
+matplotlib = "*"
 
 [dev-packages]
 
