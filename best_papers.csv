@@ -34,7 +34,7 @@ year;keywords;doi
 2019;Gender/Identity, Smart Environments/Connected Home, Ethnography, Home;https://doi.org/10.1145/3290605.3300875
 2019;Infrastructure, Appropriation, Political Conflict, War;https://doi.org/10.1145/3290605.3300810
 2019;Street–level algorithms, Street–level bureaucracies, Artificial Intelligence;https://doi.org/10.1145/3290605.3300760
-2019;Restrooms, Internet of Things, Governance;https://doi.org/10.1145/3290605.3300760
+2019;Restrooms, Internet of Things, Governance;https://doi.org/10.1145/3290605.3300723
 2019;Program belonging, exergames, social play;https://doi.org/10.1145/3290605.3300660
 2019;affinity diagramming, visual analytics, augmented reality;https://doi.org/10.1145/3290605.3300628
 2019;Photography Assistance, Interactive Visual Guidance, Photo Composition, Mobile Application;https://doi.org/10.1145/3290605.3300625
@@ -67,7 +67,7 @@ year;keywords;doi
 2018;HCI4D, ICTD, women, rural, gender, feminism, Bangladesh;https://doi.org/10.1145/3173574.3174110
 2018;Woven memory, gendered labor, craft, handwork, computing history, participatory workshops;https://doi.org/10.1145/3173574.3174105
 2018;Tangible user interfaces, near ﬁeld communication, capacitive sensing, ﬂexible devices, games, play, education;https://doi.org/10.1145/3173574.3174089
-2018;Social Movements, Feminist HCI, Activism, Storytelling, Reproductive Rights,;https://doi.org/10.1145/3173574.3173986
+2018;Social Movements, Feminist HCI, Activism, Storytelling, Reproductive Rights;https://doi.org/10.1145/3173574.3173986
 2018;Time series querying by sketching, scale-less sketches, regular expressions;https://doi.org/10.1145/3173574.3173962
 2018;Sentiment analysis, older adults, algorithmic bias, aging;https://doi.org/10.1145/3173574.3173931
 2018;Art therapy, collaborative design, communication, health;https://doi.org/10.1145/3173574.3173925
@@ -84,3 +84,49 @@ year;keywords;doi
 2018;collaborative survival, wearable technology, sensing, post-anthropocentric design, fungi;https://doi.org/10.1145/3173574.3173614
 2018;Incidental postures, power pose, Bayesian analysis;https://doi.org/10.1145/3173574.3173588
 2018;Automatic gender recognition, gender identity, transgender, autonomy, user-centered design;https://doi.org/10.1145/3173574.3173582
+2017;Passwords, usable security, data-driven, meter, feedback;https://doi.org/10.1145/3025453.3026050
+2017;Algorithms, CATME, Education, Team formation;https://doi.org/10.1145/3025453.3026011
+2017;low income, civic engagement, participatory governance;https://doi.org/10.1145/3025453.3025996
+2017;Molecular Design Interactions, pH-reactive, edible materials, microfluidics, droplets, programmable food, chemical sensing, multi-modal output, color, odor, shape change;https://doi.org/10.1145/3025453.3025952
+2017;Gaze patterns, driver state prediction, naturalistic on-road study, hidden Markov models;https://doi.org/10.1145/3025453.3025929
+2017;Procedural Art, Generative Art, Programming;https://doi.org/10.1145/3025453.3025927
+2017;Ethical design, mHealth, maternal mental health, phronesis, psychological wellbeing, virtue ethics, human flourishing,;https://doi.org/10.1145/3025453.3025918
+2017;Social media verification, journalism, collaborative workpractices, ethnography, dashboard design;https://doi.org/10.1145/3025453.3025892
+2017;Construction kits, e-textiles, wearables, children, STEM;https://doi.org/10.1145/3025453.3025887
+2017;Privacy, security, user study, intimate partner abuse, domestic violence ;https://doi.org/10.1145/3025453.3025875
+2017;Crowdsourcing, expert crowd work, flash organizations;https://doi.org/10.1145/3025453.3025811
+2017;Interaction, human-computer interaction, scientific progress, concepts, models, theories ;https://doi.org/10.1145/3025453.3025765
+2017;Haptics, Virtual Reality, Mass Perception;https://doi.org/10.1145/3025453.3025744
+2017;Empathy, zoos, primates, conservation, animal-computer interaction;https://doi.org/10.1145/3025453.3025729
+2017;Co-located virtual reality, shareVR, asymmetric virtual reality, multi-user virtual reality, consumer virtual reality;https://doi.org/10.1145/3025453.3025683
+2017;Menstrual tracking, menstrual cycle, period, personal informatics, lived informatics, women’s health, inclusivity;https://doi.org/10.1145/3025453.3025635
+2017;Public Evaluation, Public Displays, In the Wild Methods;https://doi.org/10.1145/3025453.3025598
+2017;Information visualization, self-explanation, prediction, internal representations of data, mental models;https://doi.org/10.1145/3025453.3025592
+2017;Visual search, keyboard layouts, models of learning;https://doi.org/10.1145/3025453.3025580
+2017;Multiscale navigation, Guided navigation, Bayesian experimental design, Mutual information;https://doi.org/10.1145/3025453.3025524
+2017;Dementia, design, disability, paradigm, theory;https://doi.org/10.1145/3025453.3025522
+2017;Reflection, Social-emotional skills, SEL, Reflective Informatics, Personal Informatics;https://doi.org/10.1145/3025453.3025516
+2017;Road safety, task engagement, gamification;https://doi.org/10.1145/3025453.3025511
+2017;New Media, displays, lighting, luminaire, digital fabrication;https://doi.org/10.1145/3025453.3025466
+2017;Text entry, smartwatch, multiple cursors, circular keyboard, non-touch;https://doi.org/10.1145/3025453.3025454
+2016;Cross-device interaction, scripting, interactive illustration, storyboards;https://doi.org/10.1145/2858036.2858382
+2016;User experience, meaning, eudaimonia, hedonic;https://doi.org/10.1145/2858036.2858225
+2016;Clothing-based display, dynamic textiles, style, ambiguity, weaving, crochet;https://doi.org/10.1145/2858036.2858192
+2016;Smartphone Usage, Smartphone distraction, Group activity;https://doi.org/10.1145/2858036.2858568
+2016;Email, multi-device, cross-device interaction, information retrieval, searching, archiving;https://doi.org/10.1145/2858036.2858473
+2016;Wellbeing, women’s health, women’s experiences, pelvic floor muscles, learning, feminist  HCI, smartphone technology, intimate care, wearables, on-body interactions;https://doi.org/10.1145/2858036.2858119
+2016;Sustainability, Interaction Design, Green Computing, Cloud Computing, Sustainable HCI;https://doi.org/10.1145/2858036.2858378
+2016;Wearable computing, digital textiles, conductive yarns, manufacturing, touch interaction;https://doi.org/10.1145/2858036.2858176
+2016;Color Vision, Situational Lighting Conditions, Color Differentiability, Design Software;https://doi.org/10.1145/2858036.2858077
+2016;Adolescent online safety, cyberbullying, sexual solicitations, explicit content, information  breaches, privacy, diary study;https://doi.org/10.1145/2858036.2858317
+2016;social computing, computational social science, fiction;https://doi.org/10.1145/2858036.2858535
+2016;Games, accessibility, participatory design;https://doi.org/10.1145/2858036.2858070
+2016;RFID, probabilistic modeling, computational fabrication;https://doi.org/10.1145/2858036.2858243
+2016;Learning, Brain-Computer Interface (BCI), functional Near Infrared Spectroscopy (fNIRS), Adaptive, Cognitive Workload, Music, Piano;https://doi.org/10.1145/2858036.2858388
+2016;Human–computer interaction, Problem-solving, Scientific progress, Research problem, Larry Laudan;https://doi.org/10.1145/2858036.2858283
+2016;Gaze estimation, implicit modeling, data validation, gaze-interaction correspondence;https://doi.org/10.1145/2858036.2858404
+2016;Reuse, variants, Information Foraging theory;https://doi.org/10.1145/2858036.2858469
+2016;Flexible, input, output, sensor, deformation, grip detection;https://doi.org/10.1145/2858036.2858314
+2016;User burden, user experience, usability, validated measures, measuring usability, evaluation, technology abandonment;https://doi.org/10.1145/2858036.2858448
+2016;User Centered Design, Multimodal Interaction, Cross modal mapping, Haptic interfaces, Digital audio production;https://doi.org/10.1145/2858036.2858304
+2016;Ability-based design, accessibility, motor impairment, $P recognizer, target acquisition, touch input, touch screens;https://doi.org/10.1145/2858036.2858390
