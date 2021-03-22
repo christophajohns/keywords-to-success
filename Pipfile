@@ -11,6 +11,8 @@ scikit-learn = "*"
 gensim = "*"
 matplotlib = "*"
 seaborn = "*"
+pyldavis = "*"
+tqdm = "*"
 
 [dev-packages]
 
